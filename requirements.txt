@@ -1,5 +1,0 @@
-Flask
-torch
-transformers
-Pillow
-tokenizers
